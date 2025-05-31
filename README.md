@@ -36,7 +36,3 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/Akhil70722/house_price_prediction.git
 cd house_price_prediction
-
-
-
-

@@ -60,4 +60,4 @@ python app.py
 
 ## Output Screenshot
 
-![House Price Prediction Output](b54d8e9c-4b19-40cf-8237-a73f96597bc1.png)
+![House Price Prediction Output](https://github.com/Akhil70722/house_price_prediction/blob/34e97853052e9996d760c4ea10ff430aaaf661f6/screenshot.png)

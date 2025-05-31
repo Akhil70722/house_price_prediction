@@ -56,3 +56,8 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+
+## Output Screenshot
+
+![House Price Prediction Output](b54d8e9c-4b19-40cf-8237-a73f96597bc1.png)
